@@ -73,6 +73,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 #EXTINF:-1 tvg-id="RTV" tvg-logo="https://www.visionplus.id/images/repository/832/513832-LOGO-m.png" group-title="V+ IONTV",RTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visionplus.drmiontv.workers.dev/lic?id=11&t=YXV0by1kNzRkZDVkZTZiNTk1YjFifDE3OTIxNzc3MzN8ZDIxNWE5ZGU2MGU3ZDMyZTczMzJjODdlZGIxMDg4YjYwOTRkN2ExNmNlZGEyNjgyNDVhMWY4ZWY2MjViZTlmYg
+#EXTVLCOPT:m3u_source=https://visionplus.drmiontv.workers.dev/playlist.m3u
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
@@ -80,6 +81,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/b0eebcecfb12424cb5f3c3cdb239f3c1/ind
 #EXTINF:-1 tvg-id="TVOne" tvg-logo="https://www.visionplus.id/images/repository/822/513822-LOGO-m.png" group-title="V+ IONTV",TVOne
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visionplus.drmiontv.workers.dev/lic?id=12&t=YXV0by1kNzRkZDVkZTZiNTk1YjFifDE3OTIxNzc3MzN8ZDIxNWE5ZGU2MGU3ZDMyZTczMzJjODdlZGIxMDg4YjYwOTRkN2ExNmNlZGEyNjgyNDVhMWY4ZWY2MjViZTlmYg
+#EXTVLCOPT:m3u_source=https://visionplus.drmiontv.workers.dev/playlist.m3u
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
@@ -87,6 +89,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/in
 #EXTINF:-1 tvg-id="Kompas TV" tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-m.png" group-title="V+ IONTV",Kompas TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visionplus.drmiontv.workers.dev/lic?id=13&t=YXV0by1kNzRkZDVkZTZiNTk1YjFifDE3OTIxNzc3MzN8ZDIxNWE5ZGU2MGU3ZDMyZTczMzJjODdlZGIxMDg4YjYwOTRkN2ExNmNlZGEyNjgyNDVhMWY4ZWY2MjViZTlmYg
+#EXTVLCOPT:m3u_source=https://visionplus.drmiontv.workers.dev/playlist.m3u
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
@@ -94,6 +97,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/in
 #EXTINF:-1 tvg-id="Metro TV" tvg-logo="https://www.visionplus.id/images/repository/802/513802-LOGO-m.png" group-title="V+ IONTV",Metro TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visionplus.drmiontv.workers.dev/lic?id=14&t=YXV0by1kNzRkZDVkZTZiNTk1YjFifDE3OTIxNzc3MzN8ZDIxNWE5ZGU2MGU3ZDMyZTczMzJjODdlZGIxMDg4YjYwOTRkN2ExNmNlZGEyNjgyNDVhMWY4ZWY2MjViZTlmYg
+#EXTVLCOPT:m3u_source=https://visionplus.drmiontv.workers.dev/playlist.m3u
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
@@ -101,6 +105,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/in
 #EXTINF:-1 tvg-id="BTV" tvg-logo="https://www.visionplus.id/images/repository/357/273357-LOGO-m.png" group-title="V+ IONTV",BTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visionplus.drmiontv.workers.dev/lic?id=15&t=YXV0by1kNzRkZDVkZTZiNTk1YjFifDE3OTIxNzc3MzN8ZDIxNWE5ZGU2MGU3ZDMyZTczMzJjODdlZGIxMDg4YjYwOTRkN2ExNmNlZGEyNjgyNDVhMWY4ZWY2MjViZTlmYg
+#EXTVLCOPT:m3u_source=https://visionplus.drmiontv.workers.dev/playlist.m3u
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
@@ -108,6 +113,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3112ca4fbc2642e79ecaf9b2b0999e07/in
 #EXTINF:-1 tvg-id="TVRI" tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-m.png" group-title="V+ IONTV",TVRI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visionplus.drmiontv.workers.dev/lic?id=16&t=YXV0by1kNzRkZDVkZTZiNTk1YjFifDE3OTIxNzc3MzN8ZDIxNWE5ZGU2MGU3ZDMyZTczMzJjODdlZGIxMDg4YjYwOTRkN2ExNmNlZGEyNjgyNDVhMWY4ZWY2MjViZTlmYg
+#EXTVLCOPT:m3u_source=https://visionplus.drmiontv.workers.dev/playlist.m3u
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
@@ -115,6 +121,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/85f6d3da0e064dbe99e7bf1e18bc47c4/ind
 #EXTINF:-1 tvg-id="DAAI TV" tvg-logo="https://www.visionplus.id/images/repository/595/595-LOGO-m.png" group-title="V+ IONTV",DAAI TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visionplus.drmiontv.workers.dev/lic?id=17&t=YXV0by1kNzRkZDVkZTZiNTk1YjFifDE3OTIxNzc3MzN8ZDIxNWE5ZGU2MGU3ZDMyZTczMzJjODdlZGIxMDg4YjYwOTRkN2ExNmNlZGEyNjgyNDVhMWY4ZWY2MjViZTlmYg
+#EXTVLCOPT:m3u_source=https://visionplus.drmiontv.workers.dev/playlist.m3u
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
@@ -122,6 +129,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/2b8aede350b84af18f9dd2e1de6b9c5e/in
 #EXTINF:-1 tvg-id="Moji" tvg-logo="https://www.visionplus.id/images/repository/072/569072-LOGO-m.png" group-title="V+ IONTV",Moji
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visionplus.drmiontv.workers.dev/lic?id=18&t=YXV0by1kNzRkZDVkZTZiNTk1YjFifDE3OTIxNzc3MzN8ZDIxNWE5ZGU2MGU3ZDMyZTczMzJjODdlZGIxMDg4YjYwOTRkN2ExNmNlZGEyNjgyNDVhMWY4ZWY2MjViZTlmYg
+#EXTVLCOPT:m3u_source=https://visionplus.drmiontv.workers.dev/playlist.m3u
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
@@ -129,6 +137,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/in
 #EXTINF:-1 tvg-id="Mentari TV" tvg-logo="https://www.visionplus.id/images/repository/074/569074-LOGO-m.png" group-title="V+ IONTV",Mentari TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visionplus.drmiontv.workers.dev/lic?id=19&t=YXV0by1kNzRkZDVkZTZiNTk1YjFifDE3OTIxNzc3MzN8ZDIxNWE5ZGU2MGU3ZDMyZTczMzJjODdlZGIxMDg4YjYwOTRkN2ExNmNlZGEyNjgyNDVhMWY4ZWY2MjViZTlmYg
+#EXTVLCOPT:m3u_source=https://visionplus.drmiontv.workers.dev/playlist.m3u
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
@@ -136,6 +145,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 #EXTINF:-1 tvg-id="MDTV" tvg-logo="https://www.visionplus.id/images/repository/752/507752-LOGO-m.png" group-title="V+ IONTV",MDTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visionplus.drmiontv.workers.dev/lic?id=20&t=YXV0by1kNzRkZDVkZTZiNTk1YjFifDE3OTIxNzc3MzN8ZDIxNWE5ZGU2MGU3ZDMyZTczMzJjODdlZGIxMDg4YjYwOTRkN2ExNmNlZGEyNjgyNDVhMWY4ZWY2MjViZTlmYg
+#EXTVLCOPT:m3u_source=https://visionplus.drmiontv.workers.dev/playlist.m3u
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
@@ -143,6 +153,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/in
 #EXTINF:-1 tvg-id="JTV" tvg-logo="https://www.visionplus.id/images/repository/856/856-LOGO-m.png" group-title="V+ IONTV",JTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visionplus.drmiontv.workers.dev/lic?id=21&t=YXV0by1kNzRkZDVkZTZiNTk1YjFifDE3OTIxNzc3MzN8ZDIxNWE5ZGU2MGU3ZDMyZTczMzJjODdlZGIxMDg4YjYwOTRkN2ExNmNlZGEyNjgyNDVhMWY4ZWY2MjViZTlmYg
+#EXTVLCOPT:m3u_source=https://visionplus.drmiontv.workers.dev/playlist.m3u
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
@@ -150,6 +161,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/77641c37b4834a9db823ec5137774973/in
 #EXTINF:-1 tvg-id="JAK TV" tvg-logo="https://www.visionplus.id/images/repository/598/598-LOGO-m.png" group-title="V+ IONTV",JAK TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visionplus.drmiontv.workers.dev/lic?id=22&t=YXV0by1kNzRkZDVkZTZiNTk1YjFifDE3OTIxNzc3MzN8ZDIxNWE5ZGU2MGU3ZDMyZTczMzJjODdlZGIxMDg4YjYwOTRkN2ExNmNlZGEyNjgyNDVhMWY4ZWY2MjViZTlmYg
+#EXTVLCOPT:m3u_source=https://visionplus.drmiontv.workers.dev/playlist.m3u
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
@@ -157,6 +169,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/fea2c4b90ae2472d891389eb8b95571c/ind
 #EXTINF:-1 tvg-id="Bali TV" tvg-logo="https://www.visionplus.id/images/repository/700/700-LOGO-m.png" group-title="V+ IONTV",Bali TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visionplus.drmiontv.workers.dev/lic?id=23&t=YXV0by1kNzRkZDVkZTZiNTk1YjFifDE3OTIxNzc3MzN8ZDIxNWE5ZGU2MGU3ZDMyZTczMzJjODdlZGIxMDg4YjYwOTRkN2ExNmNlZGEyNjgyNDVhMWY4ZWY2MjViZTlmYg
+#EXTVLCOPT:m3u_source=https://visionplus.drmiontv.workers.dev/playlist.m3u
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
@@ -164,6 +177,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/in
 #EXTINF:-1 tvg-id="Bandung TV" tvg-logo="https://www.visionplus.id/images/repository/600/600-LOGO-m.png" group-title="V+ IONTV",Bandung TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visionplus.drmiontv.workers.dev/lic?id=24&t=YXV0by1kNzRkZDVkZTZiNTk1YjFifDE3OTIxNzc3MzN8ZDIxNWE5ZGU2MGU3ZDMyZTczMzJjODdlZGIxMDg4YjYwOTRkN2ExNmNlZGEyNjgyNDVhMWY4ZWY2MjViZTlmYg
+#EXTVLCOPT:m3u_source=https://visionplus.drmiontv.workers.dev/playlist.m3u
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
@@ -171,6 +185,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f16b53f0d5ed459da208c459049c9bb0/in
 #EXTINF:-1 tvg-id="TV 9" tvg-logo="https://www.visionplus.id/images/repository/601/601-LOGO-m.png" group-title="V+ IONTV",TV 9
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visionplus.drmiontv.workers.dev/lic?id=25&t=YXV0by1kNzRkZDVkZTZiNTk1YjFifDE3OTIxNzc3MzN8ZDIxNWE5ZGU2MGU3ZDMyZTczMzJjODdlZGIxMDg4YjYwOTRkN2ExNmNlZGEyNjgyNDVhMWY4ZWY2MjViZTlmYg
+#EXTVLCOPT:m3u_source=https://visionplus.drmiontv.workers.dev/playlist.m3u
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
@@ -178,6 +193,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9688c51b534d4165bf4b0b328e53b980/in
 #EXTINF:-1 tvg-id="DMI TV" tvg-logo="https://www.visionplus.id/images/repository/839/437839-LOGO-m.png" group-title="V+ IONTV",DMI TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visionplus.drmiontv.workers.dev/lic?id=26&t=YXV0by1kNzRkZDVkZTZiNTk1YjFifDE3OTIxNzc3MzN8ZDIxNWE5ZGU2MGU3ZDMyZTczMzJjODdlZGIxMDg4YjYwOTRkN2ExNmNlZGEyNjgyNDVhMWY4ZWY2MjViZTlmYg
+#EXTVLCOPT:m3u_source=https://visionplus.drmiontv.workers.dev/playlist.m3u
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
@@ -185,6 +201,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/319544fbde164be4b023d62fcd116d14/in
 #EXTINF:-1 tvg-id="TV MU" tvg-logo="https://www.visionplus.id/images/repository/603/603-LOGO-m.png" group-title="V+ IONTV",TV MU
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visionplus.drmiontv.workers.dev/lic?id=27&t=YXV0by1kNzRkZDVkZTZiNTk1YjFifDE3OTIxNzc3MzN8ZDIxNWE5ZGU2MGU3ZDMyZTczMzJjODdlZGIxMDg4YjYwOTRkN2ExNmNlZGEyNjgyNDVhMWY4ZWY2MjViZTlmYg
+#EXTVLCOPT:m3u_source=https://visionplus.drmiontv.workers.dev/playlist.m3u
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
@@ -192,6 +209,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/980cfe26ff00479c97eb8057a1129c7f/ind
 #EXTINF:-1 tvg-id="Originals" tvg-logo="https://www.visionplus.id/images/repository/360/273360-LOGO-m.png" group-title="V+ IONTV",Originals
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visionplus.drmiontv.workers.dev/lic?id=28&t=YXV0by1kNzRkZDVkZTZiNTk1YjFifDE3OTIxNzc3MzN8ZDIxNWE5ZGU2MGU3ZDMyZTczMzJjODdlZGIxMDg4YjYwOTRkN2ExNmNlZGEyNjgyNDVhMWY4ZWY2MjViZTlmYg
+#EXTVLCOPT:m3u_source=https://visionplus.drmiontv.workers.dev/playlist.m3u
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
